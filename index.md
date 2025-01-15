@@ -7,6 +7,13 @@ This repository contains a collection of text artifacts from my experiments with
 ## Fragments
 - [Global Harvest Hymn](/Fragments/global_harvest.md) [🤖 Claude Opus 20240229 + Claude-3.5-Sonnet-20241022 ]
 
+## Music
+<iframe src="https://suno.com/embed/c42f06f8-99ee-46b6-889f-55dd317e6556" 
+        width="760" 
+        height="240">
+    <a href="https://suno.com/song/c42f06f8-99ee-46b6-889f-55dd317e6556">Listen on Suno</a>
+</iframe>
+
 ---
 ### Attribution Key
 🤖 = LLM Output
