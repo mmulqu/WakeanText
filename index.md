@@ -6,6 +6,7 @@ This repository contains a collection of text artifacts from my experiments with
 
 ## Fragments
 - [Global Harvest Hymn](/Fragments/global_harvest.md) [🤖 Claude Opus 20240229 + Claude-3.5-Sonnet-20241022 ]
+- [Alternate Fungal Timeline](/Fragments/alternate_fungal_timeline.md) [🤖 multiple Claude permutations]
 
 ## Music
 <iframe src="https://suno.com/embed/6785066b-c43a-43b7-9373-af4144378ee2" width="760" height="240"><a href="https://suno.com/song/6785066b-c43a-43b7-9373-af4144378ee2">Listen on Suno</a></iframe>
