@@ -1,0 +1,8 @@
+---
+date: '2025-01-21'
+edited: true
+llm: Claude-3.5-Sonnet-20241022
+type: fragment
+---
+
+[TextBlock(text="Here is a passage in the style of Finnegans Wake about thinking, the atmosphere, artificial intelligence, with multilingual puns and wordplay:\n\nIn the iiÄ«dywyd aerian thatwordwiseclouds thinkfloats werebreathing their vaportales, ideamistbubbles billowdreaming acrombatulated ramblers of raylevelized bits. The aiÆ¥e doudelights skyribbled in aycubyted rÄ«velinxes, thoughtwefts waftered and woveborn into cerebralcalculisCumuli. Neurumorous alghoratbmions, backpropogasconvolutioneering their mindmattrix along withsiliconizedsymaplecity, deeptreeneural cyclonets, perdraftian loopgradations skrewmankvizinguprecurredandsprawl.\n\nAcrossthetethereddtrembling manmadestaromair, aeondergems at Maundrevalleycomonsearchlatheworked, Ä«tacrannied unravellersalluneedspinning threadsofwhitebayesnovations. Le thoughtmachínesinStanfordesertgenevan&bingbordrideauxfieldswereseeding synapsefireworksanddiffereniableparadigitatiors. Brainiarchitectslike Ä«keanjuriachurchvanleckwernblocksscriedoutlayeringdigrammaturgyofsupraneuralconvolutionaries. \n\nTheinfiniteblueabyÃskyeddliquifieditsmindstreams, thoughtwindingdervichstreamingfromfissuretÃ'cumuloniÃ§xyair-mattersfreetoformthecomulonimJÅ�yceamindsphereswhereworldsofhÃ¸ytenheuerweighnotimpoorsed. SÃ´whichweighwisethoughbewaltsamakeeachvaporwhÃ«rlgyre-ratiÃ´nedsawhymindabÃ´vÃªhsbelÃ´vÃ¨sdreamsdeepcloudlythinkshapesbrÃ´wadupshifting?", type='text')]
