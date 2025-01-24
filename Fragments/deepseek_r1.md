@@ -1,6 +1,6 @@
 ---
 date: 2025-01-23
-llm: DeepSeek-V3
+llm: deepseek-reasoner (r1)
 edited: false
 type: fragment
 ---
