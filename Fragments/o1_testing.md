@@ -1,6 +1,6 @@
 ---
 date: 2025-01-23
-llm: GPT-4
+llm: o1
 edited: false
 type: fragment
 ---
